@@ -16,6 +16,13 @@ nav {
     color: black;
 }
 
+ul {
+    margin: 0;
+    padding-top: 20px;
+    float: right;
+    padding-right: 30px;
+}
+
 li {
     list-style-type: none;
     display: inline-block;

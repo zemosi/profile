@@ -1,4 +1,6 @@
-
+html {
+    scroll-behavior: smooth;
+}
 
 body {
     margin: 0;
@@ -6,6 +8,10 @@ body {
     font-family: 'Sen', sans-serif;
     background-color: black;
     color: white;
+}
+
+#no_body {
+    height: 60px;
 }
 
 nav {

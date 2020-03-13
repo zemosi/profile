@@ -14,6 +14,7 @@ nav {
     padding: 0 1rem;
     background-color: white;
     color: black;
+    position: fixed;
 }
 
 nav ul li a {
@@ -21,21 +22,21 @@ nav ul li a {
     color: black;
 }
 
-ul {
+nav ul {
     margin: 0;
     padding-top: 20px;
     float: right;
     padding-right: 30px;
 }
 
-li {
+nav li {
     list-style-type: none;
     display: inline-block;
     padding: 0 8px;
 }
 
 section {
-    padding: 80px;
+    padding: 100px;
 }
 
 #hero {
